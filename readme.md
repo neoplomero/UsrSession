@@ -44,10 +44,7 @@ Installation.
 
 1.	Clone the project.
 2.	Configure the app/config/database.php with your database
-data, the default data is: 
- *database => usrsession
- *username => root
- *password => root
+data, the default data is: --'database' => 'usrsession' --'username' => 'root'-- 'password' => 'root'
 3.	Create the tables.
 4.	Migrate.
 5.	Have fun.
