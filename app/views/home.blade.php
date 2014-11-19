@@ -32,7 +32,7 @@
 @endif
 
 <div class="container">
-
+    <h1>hola soy un nuevo h1</h1>
     <h1>Some of our <a href='{{route('users')}}'>Users</a>, the last ones registered.</h1>
 
 
